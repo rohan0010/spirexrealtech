@@ -17,7 +17,8 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
       <p>
         © 2021{" "}
       
-          SpirexRealTechPrivateLimited
+          SpirexRealTech
+          PrivateLimited
         .<br /> All Rights Reserved
       </p>
     </div>

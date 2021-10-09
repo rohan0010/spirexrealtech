@@ -9,8 +9,8 @@ const HeroSliderNineSingle = ({ data, sliderClass }) => {
         sliderClass ? sliderClass : ""
       }`}
       style={{ backgroundImage: `url(${process.env.PUBLIC_URL + data.image})`,
-    width:"500px",
-  height:"400px",
+  //   width:"500px",
+  // height:"400px",
 objectFit:"cover" }}
     >
       <div className="container">

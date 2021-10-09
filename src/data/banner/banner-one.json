@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/banner/one.jpeg",
+    "image": "/assets/img/banner/test5.jpg",
     "title": "",
     "subtitle": "",
     "price": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "/assets/img/banner/two.jpeg",
+    "image": "/assets/img/banner/test4.jpg",
     "title": "",
     "subtitle": "",
     "price": "",
@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "image": "/assets/img/banner/three.jpeg",
+    "image": "/assets/img/banner/test3.jpg",
     "title": "",
     "subtitle": "",
     "price": "",
-    "link": "/shop-grid-standard"
+    "link": ""
   }
 ]

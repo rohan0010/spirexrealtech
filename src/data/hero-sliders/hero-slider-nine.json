@@ -3,28 +3,28 @@
     "id": 1,
     "title": "",
     "subtitle": "",
-    "image": "/assets/img/banner/a.jpeg",
+    "image": "/assets/img/banner/test.jpg",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
     "title": "",
     "subtitle": "",
-    "image": "/assets/img/banner/b.jpeg",
+    "image": "/assets/img/banner/test1.jpg",
     "url": "/shop-grid-standard"
   },
   {
     "id": 4,
     "title": "",
     "subtitle": "",
-    "image": "/assets/img/banner/c.jpeg",
+    "image": "/assets/img/banner/test2.jpg",
     "url": "/shop-grid-standard"
   },
   {
     "id": 4,
     "title": "",
     "subtitle": "",
-    "image": "/assets/img/banner/d.jpeg",
+    "image": "/assets/img/banner/test3.jpg",
     "url": "/shop-grid-standard"
   }
 ]
